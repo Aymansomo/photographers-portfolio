@@ -1,0 +1,27 @@
+body {
+  background-color: #111827;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Rubik';
+}
+
+p, span {
+  font-family: 'Roboto Mono' ;
+}
+
+/* .btn {
+
+} */
+
+.list-Items li {
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 480px) {
+  .info-span {
+    display: block;
+  }
+}
