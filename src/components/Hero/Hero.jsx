@@ -32,7 +32,7 @@ function Hero() {
             <h1 className="text-7xl max-sm:text-5xl text-blue-600">
               Your Name.
             </h1>
-            <h2 className="text-4xl max-sm:text-2xl">Photographers</h2>
+            <h2 className="text-4xl max-sm:text-2xl">Photographer</h2>
           </div>
           <div className="mb-7">
             <ul className="flex justify-center p-2">
